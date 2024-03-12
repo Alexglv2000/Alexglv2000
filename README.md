@@ -11,7 +11,9 @@
 
 
 <div align="center">
-<img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" alt="" width="600" height="250">
+  <a href="https://alexglv2000.github.io/">
+    <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg" alt="snake">
+  </a>
 </div>
 
 
