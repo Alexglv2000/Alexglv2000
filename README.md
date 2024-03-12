@@ -10,10 +10,8 @@
 </div>
 
 
-<!--- snake -->
 <div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
+<iframe src="https://supermarioemulator.com/game.php?v2" id="game" name="game" marginwidth="0" marginheight="0" frameborder="0" width="800" height="600" autofocus="center"></iframe>
 </div>
 
 
