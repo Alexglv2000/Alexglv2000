@@ -13,9 +13,10 @@
 
 <div class="preview-container">
   <h2>Check out my website:</h2>
- <img src="https://alexglv2000.github.io/PROGRAMING-DESIGNED/"></img>
- 
+  <img src="img.png" alt="Preview of my website">
+  <p><a href="https://alexglv2000.github.io/PROGRAMING-DESIGNED/" target="_blank">Visita mi sitio web</a></p>
 </div>
+
 
 <!--h2 without bottom border-->
 <div id="user-content-toc">
