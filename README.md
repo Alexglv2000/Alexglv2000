@@ -11,11 +11,12 @@
 <hr style="border: 1px solid #3498db; margin: 20px 0;">
 
 
-<!-- Snake Game Section -->
-<div class="game-container">
-  <h2>Play Snake Game 🐍</h2>
-  <canvas id="gameCanvas" width="400" height="400"></canvas>
+<<!-- Mini Preview of external page -->
+<div class="preview-container">
+  <h2>Check out my website:</h2>
+  <iframe src="https://alexglv2000.github.io/PROGRAMING-DESIGNED/" title="Programming Designed Website Preview"></iframe>
 </div>
+
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
