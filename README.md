@@ -1,6 +1,5 @@
-
 <!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider">
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
@@ -8,9 +7,6 @@
     <summary><h1 style="display: inline-block">Hi 👋, I'm Gabo</h1></summary>
   </ul>
 </div>
-
-
- 
 
 <hr style="border: 1px solid #3498db; margin: 20px 0;">
 
@@ -26,17 +22,13 @@
   </ul>
 </div>
 
-
 <!--Intro start-->
-- 🌱 I am currently learning how to build applications with scalable **micro services**.
-
-- ☁️ I have great interest in **cloud computing** as well as **cybersecurity** using different tools.
-
-- 💬 Ask me about **java**, **web programming** as well as **styles for web pages**.
-
-- 📫 Don't hesitate to contact me: **alexglv2000@gmail.com**
-
-- 🏠 I am also interested in projects making **100% free energy** prototypes.
+<ul>
+  <li>🌱 I am currently learning how to build applications with scalable <strong>micro services</strong>.</li>
+  <li>☁️ I have great interest in <strong>cloud computing</strong> as well as <strong>cybersecurity</strong> using different tools.</li>
+  <li>💬 Ask me about <strong>java</strong>, <strong>web programming</strong> as well as <strong>styles for web pages</strong>.</li>
+  <li>📫 Don't hesitate to contact me: <strong>alexglv2000@gmail.com</strong></li>
+  <li>🏠 I am also interested in projects making <strong>100% free energy</strong> prototypes.</li>
+</ul>
 <!--Intro end-->
-
 
