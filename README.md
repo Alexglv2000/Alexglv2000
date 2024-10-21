@@ -8,6 +8,8 @@
     <summary><h1 style="display: inline-block">Hi 👋, I'm Gabo</h1></summary>
   </ul>
 </div>
+
+<hr style="border: 1px solid #3498db; margin: 20px 0;">
  
   <div align="center">
   <a href="https://alexglv2000.github.io/">
