@@ -17,6 +17,7 @@
 </div>
 
 
+<hr style="border: 1px solid #3498db; margin: 20px 0;">
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
