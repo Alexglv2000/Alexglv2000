@@ -11,10 +11,9 @@
 <hr style="border: 1px solid #3498db; margin: 20px 0;">
 
 
-<<!-- Mini Preview of external page -->
 <div class="preview-container">
   <h2>Check out my website:</h2>
-  <iframe src="https://alexglv2000.github.io/PROGRAMING-DESIGNED/" title="Programming Designed Website Preview"></iframe>
+  <iframe src="https://alexglv2000.github.io/PROGRAMING-DESIGNED/" title="Programming Designed Website Preview" style="overflow: hidden; border: none;"></iframe>
 </div>
 
 <!--h2 without bottom border-->
