@@ -12,9 +12,8 @@
 
 
 <div class="preview-container">
-  <h2>Check out my website:</h2>
-  <img src="img.png" alt="Preview of my website">
-  <p><a href="https://alexglv2000.github.io/PROGRAMING-DESIGNED/" target="_blank">Visita mi sitio web</a></p>
+  <a href="https://alexglv2000.github.io/PROGRAMING-DESIGNED/" target="_blank"><img src="img.png" alt="Preview of my website">
+  </a></p>
 </div>
 
 
