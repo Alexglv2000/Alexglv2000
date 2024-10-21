@@ -8,11 +8,10 @@
     <summary><h1 style="display: inline-block">Hi 👋, I'm Gabo</h1></summary>
   </ul>
 </div>
-
-
-<div align="center">
+ 
+  <div align="center">
   <a href="https://alexglv2000.github.io/">
-    <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg" alt="snake">
+    <img src="/resources/grid-snake.svg" alt="snake" style="border: 3px solid #3498db; border-radius: 10px; box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.2);">
   </a>
 </div>
 
