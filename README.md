@@ -13,11 +13,8 @@
 
 <div class="preview-container">
   <h2>Check out my website:</h2>
-  <iframe src="https://alexglv2000.github.io/PROGRAMING-DESIGNED/" title="Programming Designed Website Preview" style="overflow: hidden display: flex;
-      flex-direction: column;
-      align-items: center;
-      justify-content: center;
-      margin-top: 20px; border: none;"></iframe>
+ <img src="https://alexglv2000.github.io/PROGRAMING-DESIGNED/"></img>
+ 
 </div>
 
 <!--h2 without bottom border-->
