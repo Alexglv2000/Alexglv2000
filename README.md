@@ -1,7 +1,6 @@
-
-<div class="preview-container">
+<div align="center">
   <a href="https://thegreyhat.vercel.app" target="_blank">
-    <img src="https://i.imgur.com/TuImagen.png" alt="Preview of my website">
+    <img src="preview.png" alt="Preview of my website" width="600" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
   </a>
 </div>
 
