@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://thegreyhat.vercel.app" target="_blank">
-    <img src="https://image.thum.io/get/width/800/https://thegreyhat.vercel.app" alt="Live preview" width="600">
+    <img src="https://image.thum.io/get/width/800/https://thegreyhat.vercel.app" alt="Live preview" width="300">
   </a>
 </p>
 
