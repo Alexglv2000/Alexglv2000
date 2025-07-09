@@ -1,8 +1,8 @@
-<div align="center">
+<p align="center">
   <a href="https://thegreyhat.vercel.app" target="_blank">
-    <img src="preview.png" alt="Preview of my website" width="600" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+    <img src="https://image.thum.io/get/width/800/https://thegreyhat.vercel.app" alt="Live preview" width="600">
   </a>
-</div>
+</p>
 
 
 <hr style="border: 1px solid #3498db; margin: 20px 0;">
