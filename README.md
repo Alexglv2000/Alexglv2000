@@ -1,19 +1,8 @@
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider">
 
 <div class="preview-container">
   <a href="https://thegreyhat.vercel.app" target="_blank">
     <img src="https://i.imgur.com/TuImagen.png" alt="Preview of my website">
   </a>
-</div>
-
-
-<hr style="border: 1px solid #3498db; margin: 20px 0;">
-
-
-<div class="preview-container">
-  <a href="https://alexglv2000.github.io/PROGRAMING-DESIGNED/" target="_blank"><img src="img.png" alt="Preview of my website">
-  </a></p>
 </div>
 
 
